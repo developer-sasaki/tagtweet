@@ -1,5 +1,4 @@
-
-  class TweetsTag
+class TweetsTag
 
   include ActiveModel::Model
   attr_accessor :message, :name
